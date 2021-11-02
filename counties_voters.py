@@ -26,4 +26,4 @@ folium.Choropleth(
 
 folium.LayerControl().add_to(m)
 
-m.save('kenya_maps.html')
+m.save('kenya_maps1.html')
